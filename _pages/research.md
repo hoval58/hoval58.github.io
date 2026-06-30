@@ -17,6 +17,9 @@ author\_profile: true
 
 ## Preprints
 
+<u>Valerie N.P. Ho</u>, Guenther Walther. **Beta-trees for testing multivariate goodness-of-fit and localizing
+deviations from a model.** 2026 [[arXiv]](https://arxiv.org/abs/2606.29021)
+
 <u>Valerie N.P. Ho</u>, Art B. Owen. **Walk on spheres and Array-RQMC.** 2026 [[arXiv]](https://arxiv.org/abs/2605.12844)
 
 <u>Valerie N.P. Ho</u>, Art B. Owen. **Randomized quasi-Monte Carlo for walk on spheres.** 2026 [[arXiv]](https://arxiv.org/abs/2605.08483)
