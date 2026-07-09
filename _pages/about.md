@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Statistics PhD student at Stanford University advised by Professor [Art Owen](https://artowen.su.domains). 
+I am a fourth-year Statistics PhD student at Stanford University advised by Professor [Art Owen](https://artowen.su.domains). 
 
 My research focuses on Monte Carlo methods, especially randomized quasi–Monte Carlo (RQMC) techniques, with applications to high-dimensional numerical integration and PDE estimation.
 
