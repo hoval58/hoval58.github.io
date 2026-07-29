@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "Valérie Ho"
 title_separator          : "-"
 name                     : &name "Valérie Ho"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Valérie Ho is a Statistics PhD student at Stanford University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hoval58.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
