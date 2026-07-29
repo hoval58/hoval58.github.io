@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About
 
 I am a fourth-year Statistics PhD student at Stanford University advised by Professor [Art Owen](https://artowen.su.domains). 
 
